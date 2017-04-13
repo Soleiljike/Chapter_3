@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\Desktop\language\SDK\android-sdk-windows\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="D:\Desktop\language\androidcode\Chapter_3\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-19.1.0_c2ce1a37304d94457e812528e6d665cee3b7906d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Desktop\language\androidcode\Chapter_3\app\libs\nineoldandroids.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2d6197c1913cc3eae6cd2e4137498fbec94971b6">
+        <dex dex="D:\Desktop\language\androidcode\Chapter_3\app\build\intermediates\transforms\dex\debug\folders\1000\2\nineoldandroids_673fc369965135db3cdd4910d9f3b7957f509d20\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Desktop\language\androidcode\Chapter_3\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="D:\Desktop\language\androidcode\Chapter_3\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_d82d4b2f49791d06c2c3496e5fc5f002a8355a81\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Desktop\language\androidcode\Chapter_3\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f447510b289ba7547170b2f793cf03ba9d476d68">
+        <dex dex="D:\Desktop\language\androidcode\Chapter_3\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_e55ac350cfb7129a16e5e5261185b4d5e78ede50\classes.dex" />
+    </item>
+
+</items>
